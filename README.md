@@ -2,10 +2,10 @@
 Repository containing my data and workflow throughout my GSR assignment 
 ## Assaignment ##
 Things to consider, 
-  Who are the Buyers/renters? Inland County Profile.
+  Who are the Buyers/renters? Inland County Profile:
     A. U.S. Census data on homeowner characteristics by race, class, location, household structure, age cohort, income, etc
     B. Proximity to Employment
-  What should the region's housing mix look like in 20 years?
+ What should the region's housing mix look like in 20 years?
     1. Millenials
     2. Boomers
     3. Multigenerational
